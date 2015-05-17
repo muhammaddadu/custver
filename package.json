@@ -1,0 +1,32 @@
+{
+  "name": "custver",
+  "version": "0.0.1",
+  "description": "A highly customizable version parser",
+  "main": "lib/custver.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:muhammaddadu/custver.git"
+  },
+  "keywords": [
+    "versioning",
+    "version",
+    "control",
+    "version",
+    "parser"
+  ],
+  "author": "Muhammad Dadu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhammaddadu/custver/issues"
+  },
+  "homepage": "https://github.com/muhammaddadu/custver",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.2.5",
+    "unit.js": "^2.0.0"
+  }
+}
