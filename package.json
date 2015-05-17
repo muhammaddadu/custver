@@ -1,6 +1,6 @@
 {
   "name": "custver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A highly customizable version parser",
   "main": "lib/custver.js",
   "scripts": {
