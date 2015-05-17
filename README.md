@@ -1,4 +1,4 @@
-# custver
+# custver [![Build Status](https://travis-ci.org/muhammaddadu/custver.svg)](https://travis-ci.org/muhammaddadu/custver)
 A highly customizable version parser
 
 # Usage
