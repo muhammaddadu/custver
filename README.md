@@ -18,11 +18,11 @@ Defining the version formatting can be done in two ways.
 ## Selecting a predefined version format
 This package comes with two predefined version formattings. These are;
 - alternative
-- symantic
+- semantic
 
 ```JavaScript
 custver.setOptions('alternative'); // Alternative version formatting
-custver.setOptions('symantic'); // Symantic version formatting
+custver.setOptions('semantic'); // Symantic version formatting
 ```
 
 ## Defining a custom version formatiing
